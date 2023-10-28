@@ -13,6 +13,12 @@ Traditional tools like static maps and signs often need to catch up. They need t
 Once you've identified the problem, it's time to get creative. By "innovative solutions," we mean a wide array of options, from web or mobile apps to AI integration or hardware implementations. You can also employ "design thinking," a problem-solving approach that involves deeply understanding the user's needs and creatively finding solutions that meet those needs. The goal is to make the indoor navigation experience more intuitive, personalized, and accessible for many users. There are no constraints on the technology or method you choose; the aim is to elevate the indoor navigation experience significantly.
 
 
+
+Deliverables 
+We expect deliverables to include a video pitch that articulates your team's understanding of the indoor navigation problem,  presents your proposed innovative solution, and shares key learnings acquired during the project. 
+
+
+
 Judging 
 Solutions will be judged on: 
 • Problem Solving: Evaluation of how effectively your solution addresses the identified indoor navigation challenge.
