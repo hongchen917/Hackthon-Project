@@ -34,6 +34,8 @@ Solutions will be judged on:
 - Figma
 - Google Slide
 - Recoding screen include sound
+- Android Studio
+  
 
 **Description**: <br>
 **video length**: 3 mins <br>
