@@ -34,7 +34,7 @@ Solutions will be judged on:
 - Figma
 - Google Slide
 - Recoding screen include sound
-- Android Studio
+- Android Studio/ Flutter
   
 
 **Description**: <br>
