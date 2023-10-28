@@ -48,7 +48,8 @@ Solutions will be judged on:
 
 **Prototype**: <br>
 - 3D model map <br>
-- Search <br> 
+- Search <br>
+- AR way
 
 
 
