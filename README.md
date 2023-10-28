@@ -29,3 +29,18 @@ Solutions will be judged on:
 • Clarity: Measurement of how clearly your team articulates the problem and proposed solution in the video pitch. 
 • Completeness: Review of the thoroughness and detail in your proposed solution, including all necessary components. 
 • Impact: Judgment on the potential real-world effectiveness and reach of your solution 
+
+**TOOL**: <br>
+- Figma
+- Google Slide
+- Recoding screen include sound
+
+**Description**: <br>
+**video length**: 3 mins <br>
+**Content**: <br>
+-Point out the problem
+-
+
+
+
+
