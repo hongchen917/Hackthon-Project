@@ -44,6 +44,9 @@ Solutions will be judged on:
 - Show Prototype(Figma) that contain the solution <br>
 - Expand little bit on How to implement in the code part like tool or API will be using 
 
+**Prototype**: <br>
+- 3D model map <br>
+- Search <br> 
 
 
 
