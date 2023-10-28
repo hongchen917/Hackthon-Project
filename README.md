@@ -46,18 +46,10 @@ Solutions will be judged on:
 - Show Prototype(Figma) that contain the solution <br>
 - Expand a little bit on How to implement in the code part like tool or API that will be using 
 
-**Function**:
+**Prototype**: <br>
 - 3D model map <br>
 - Search <br>
-- AR way <br>
-
-<br>
-
-**Prototype**: <br>
-
-**IndoorNavi**: <br>
-
-
+- AR way
 
 
 
