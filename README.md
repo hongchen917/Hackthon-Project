@@ -54,7 +54,13 @@ Solutions will be judged on:
   3. replace old floor layout with new floor layout that contain the walk path
   4. display new 3D model to the user
 - Augmented View
-  AR Core
+-Base on AR Core <br>
+  1. Map the Indoor Environment
+	-Google's Project Tango
+  2. Marker Detection: Place markers in indoor space that serve as reference points for navigation.
+  3. Navigation Guidance: Overlay directional arrows, information, on the camera feed in the correct position relative to  the environment.
+  4. Wayfinding Logic: Logic that guides users to their destination
+
 
 
 
