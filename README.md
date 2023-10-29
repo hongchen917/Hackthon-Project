@@ -46,7 +46,7 @@ Solutions will be judged on:
 - Show Prototype(Figma) that contain the solution <br>
 - Expand a little bit on How to implement in the code part like tool or API that will be using 
 
-**Prototype**: <br>
+**Prototype**: https://www.figma.com/file/KoDy5ALbkt8k07gxza8O18/Indoor-Navigation?type=design&node-id=0-1&mode=design&t=2z1f9LC60CI9UfNk-0<br>
 - 3D model map <br>
   1. read in floor layout from 3D model of building interior <br>
   2. Add path between current location to destination.
