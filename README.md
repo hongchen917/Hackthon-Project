@@ -48,8 +48,12 @@ Solutions will be judged on:
 
 **Prototype**: <br>
 - 3D model map <br>
-- Search <br>
-- AR way
+  1. read in floor layout from 3D model of building interior <br>
+  2. Add path between current location to destination.
+  3. replace old floor layout with new floor layout that contain the walk path
+  4. display new 3D model to the user
+- Augmented View
+  AR Core
 
 
 
