@@ -23,12 +23,12 @@ We expect deliverables to include a video pitch that articulates your team's und
 
 
 **Judging**: <br>
-Solutions will be judged on: 
-• Problem Solving: Evaluation of how effectively your solution addresses the identified indoor navigation challenge.
-• Creativity: Assessment of the originality and innovation in your approach to solving the problem. 
-• Clarity: Measurement of how clearly your team articulates the problem and proposed solution in the video pitch. 
-• Completeness: Review the thoroughness and detail in your proposed solution, including all necessary components. 
-• Impact: Judgment on the potential real-world effectiveness and reach of your solution 
+Solutions will be judged on: <br>
+• Problem Solving: Evaluation of how effectively your solution addresses the identified indoor navigation challenge. <br>
+• Creativity: Assessment of the originality and innovation in your approach to solving the problem. <br>
+• Clarity: Measurement of how clearly your team articulates the problem and proposed solution in the video pitch. <br>
+• Completeness: Review the thoroughness and detail in your proposed solution, including all necessary components. <br>
+• Impact: Judgment on the potential real-world effectiveness and reach of your solution <br>
 
 **TOOL**: <br>
 - Figma
