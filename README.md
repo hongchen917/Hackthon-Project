@@ -41,10 +41,11 @@ Solutions will be judged on:
 **video length**: 3 mins <br>
 **Content**: <br>
 - Point out the problems <br>
-- Provide solutions that solve(3D model Map) <br>
+- Provide solutions that solve(3D model Map and AR) <br>
 
 - Show Prototype(Figma) that contain the solution <br>
-- Expand a little bit on How to implement in the code part like tool or API that will be using 
+- Expand a little bit on How to implement in the code part like tool or API that will be using<br>
+- Futrue impletation and funtions
 
 **Prototype**: https://www.figma.com/file/KoDy5ALbkt8k07gxza8O18/Indoor-Navigation?type=design&node-id=0-1&mode=design&t=2z1f9LC60CI9UfNk-0<br>
 - 3D model map <br>
