@@ -61,6 +61,15 @@ Solutions will be judged on: <br>
   3. Navigation Guidance: Overlay directional arrows, information, on the camera feed in the correct position relative to  the environment.
   4. Wayfinding Logic: Logic that guides users to their destination
 
+  Futrue Function:
+1.Translation from 360 video footage to create 3D maps <br>
+2.Labeling of rooms based on signage outside of each room <br>
+3.Text-to-speech in directions <br>
+4.Allow the visually impaired to easily find rooms  <br>
+5.Search algorithm, such as A* search to find optimal path from starting point to destination room <br>
+6.Hadar <br>
+
+
 
 
 
